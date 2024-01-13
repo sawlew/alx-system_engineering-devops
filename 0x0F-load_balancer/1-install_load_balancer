@@ -19,6 +19,9 @@ backend sawlew.tech_backend
     balance roundrobin
     server 217913-web-01 35.153.16.246:80 check
     server 217913-web-02 52.201.186.77:80 check
+
+frontend sawlew.tech
+    use_backend sawlew.tech_backend
 EOT
 
 sudo service haproxy restart

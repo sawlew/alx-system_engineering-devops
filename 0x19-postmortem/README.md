@@ -1,5 +1,7 @@
 # Cloud Storage Outage Postmortem
 
+![confusedcloud](https://github.com/sawlew/alx-system_engineering-devops/assets/24959538/6187f6d7-72a4-42e1-a33d-0faf5b87fec0)
+
 ## Issue Summary
 
 - **Duration:** The outage occurred from February 15, 2024, 10:00 PM to February 16, 2024, 2:00 AM (UTC).
